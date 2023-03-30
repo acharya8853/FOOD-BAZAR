@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Food Delivery Software" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Food Delivery Software" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Food Delivery Software" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Controller/1. Overall/0. get_ida.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/1. Overall/0. get_idf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/1. Overall/0. help.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/1. Overall/0. save_ida.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/1. Overall/0. save_idf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/1. Overall/0. view_review.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/1. Overall/0.screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/1. Overall/0.time.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/1. Overall/0.write_review.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/2. Customer/1. Detailed Report.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/2. Customer/1. add_account_customer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/2. Customer/1. delete_account_customer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/2. Customer/1. list_record_customer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/2. Customer/1. update_account_customer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/3. Food/2. add_food .c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/3. Food/2. delete_food.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/3. Food/2. list_food.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/3. Food/2. update_food_details.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/3. Food/2.stock.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Controller/3. Food/3. order.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DataBase/account_details.txt" />
+		<Unit filename="DataBase/food_details.txt" />
+		<Unit filename="DataBase/id.txt" />
+		<Unit filename="DataBase/idf.txt" />
+		<Unit filename="DataBase/review.txt" />
+		<Unit filename="DataBase/temp.txt" />
+		<Unit filename="View/1. Welcome and Ending/welcome.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="View/2. Open_Screen/open_screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="View/3. Login/3.1. Customer/bill.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="View/3. Login/3.1. Customer/customer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="View/3. Login/3.1. Customer/customer_screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="View/3. Login/3.2. Admin/1. Customer Details/customer_details_screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="View/3. Login/3.2. Admin/2. Food Details/food_details_screen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="View/3. Login/3.2. Admin/admin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="View/3. Login/3.2. Admin/admin_front.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="View/3. Login/login.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="View/4. Sign UP/sign_up.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,20 @@
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+*                      Food Bazar Pvt. Ltd                        *
+*		       Bagbazar, Kathmandu                        *
+*		        Cont: 9841328282                          *
+*								  *
+*                                                                 *
+*   Name : ^
+*                                                                 *   
+*                                                                 *
+*   Food Name                    Quantity           Price         *
+*   ) 
+*                                                                 *
+*                                                                 *
+*                                                                 *
+*                                                                 *
+*                                                                 *
+*                                                                 *
+*                                         Total:&                 
+*                                                                 *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
